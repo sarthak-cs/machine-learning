@@ -13,10 +13,10 @@ This repository documents my journey of learning Machine Learning by implementin
 ## Implemented
 
 - [x] Linear Regression
+- [x] Logistic Regression
 
 ## Planned
 
-- [ ] Logistic Regression
 - [ ] Neural Network
 - [ ] Backpropagation
 - [ ] CNN
