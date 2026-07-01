@@ -14,10 +14,10 @@ This repository documents my journey of learning Machine Learning by implementin
 
 - [x] Linear Regression
 - [x] Logistic Regression
+- [x] Neural Network
+- [x] Backpropagation
 
 ## Planned
 
-- [ ] Neural Network
-- [ ] Backpropagation
 - [ ] CNN
 - [ ] Transformer
